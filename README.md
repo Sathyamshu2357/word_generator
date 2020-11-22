@@ -10,12 +10,10 @@
  Step 1 : git clone https://github.com/Sathyamshu2357/word_generator.git
  Step 2 : python segregate.py
  Step 3 : python sortit.py
- 
- Steps 1,2,3 are the one time setup .
+ <br>Steps 1,2,3 are the one time setup .
  
  Step 4 : python findwords.py 
  
- Whenever u want to generate words just use execute Step 4
- 
+ Whenever u want to generate words just execute Step 4
  </pre>
  </b>
